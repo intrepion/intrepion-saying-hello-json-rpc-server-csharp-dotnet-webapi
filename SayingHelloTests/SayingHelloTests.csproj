@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SayingHelloLibrary\SayingHelloLibrary.csproj" />
+    <ProjectReference Include="..\SayingHelloWebApi\SayingHelloWebApi.csproj" />
   </ItemGroup>
 
 </Project>
