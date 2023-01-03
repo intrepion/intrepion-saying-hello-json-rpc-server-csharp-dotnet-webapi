@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayingHelloLibrary", "SayingHelloLibrary\SayingHelloLibrary.csproj", "{5B437682-38EB-4675-B4DB-48C68C128B41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayingHelloWebApi", "SayingHelloWebApi\SayingHelloWebApi.csproj", "{54430C32-AC92-4D8D-9A1D-8962AB64A7D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5B437682-38EB-4675-B4DB-48C68C128B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B437682-38EB-4675-B4DB-48C68C128B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B437682-38EB-4675-B4DB-48C68C128B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54430C32-AC92-4D8D-9A1D-8962AB64A7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54430C32-AC92-4D8D-9A1D-8962AB64A7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54430C32-AC92-4D8D-9A1D-8962AB64A7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54430C32-AC92-4D8D-9A1D-8962AB64A7D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
