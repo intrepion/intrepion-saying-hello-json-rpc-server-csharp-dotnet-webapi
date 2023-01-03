@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SayingHelloLibrary\SayingHelloLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
